@@ -1,0 +1,114 @@
+{
+  "cropList": [
+    {
+      "name": "Melon",
+      "buy": 80,
+      "sell": 250,
+      "grow": 12,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 2
+    },
+    {
+      "name": "Poppy",
+      "buy": 100,
+      "sell": 140,
+      "grow": 7,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 2
+    },
+    {
+      "name": "Radish",
+      "buy": 40,
+      "sell": 90,
+      "grow": 6,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 2
+    },
+    {
+      "name": "Red Cabbage",
+      "buy": 100,
+      "sell": 260,
+      "grow": 9,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 2
+    },
+    {
+      "name": "Starfruit",
+      "buy": 400,
+      "sell": 750,
+      "grow": 13,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 2
+    },
+    {
+      "name": "Summer Spangle",
+      "buy": 50,
+      "sell": 90,
+      "grow": 8,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 2
+    },
+    {
+      "name": "Potato",
+      "buy": 50,
+      "sell": 80,
+      "grow": 6,
+      "regrowth": 0,
+      "yield": 1.2,
+      "multiSeason": false,
+      "seasons": 1
+    },
+    {
+      "name": "Rhubarb",
+      "buy": 100,
+      "sell": 220,
+      "grow": 13,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 1
+    },
+    {
+      "name": "Strawberry",
+      "buy": 100,
+      "sell": 120,
+      "grow": 8,
+      "regrowth": 4,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 1
+    },
+    {
+      "name": "Tulip",
+      "buy": 20,
+      "sell": 30,
+      "grow": 6,
+      "regrowth": 0,
+      "yield": 1.0,
+      "multiSeason": false,
+      "seasons": 1
+    },
+    {
+      "name": "Coffee Bean",
+      "buy": 2500,
+      "sell": 15,
+      "grow": 10,
+      "regrowth": 2,
+      "yield": 4.0,
+      "multiSeason": true,
+      "seasons": 12
+    }
+  ]
+}
